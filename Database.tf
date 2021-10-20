@@ -33,4 +33,5 @@ resource "null_resource" "deploy_db" {
         ]
     }
 }
+
   
